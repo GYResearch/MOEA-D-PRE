@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-06T16:00:48</date>
+  <millis>1557154848969</millis>
+  <sequence>0</sequence>
+  <logger>learn_jmetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.MOEADPRE.PRE_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 281ms</message>
+</record>
+<record>
+  <date>2019-05-06T16:00:49</date>
+  <millis>1557154849000</millis>
+  <sequence>1</sequence>
+  <logger>learn_jmetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.MOEADPRE.PRE_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives values have been writen to file FUN</message>
+</record>
+<record>
+  <date>2019-05-06T16:00:49</date>
+  <millis>1557154849016</millis>
+  <sequence>2</sequence>
+  <logger>learn_jmetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.MOEADPRE.PRE_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variables values have been writen to file VAR</message>
+</record>
+</log>
